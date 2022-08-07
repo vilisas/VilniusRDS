@@ -1,0 +1,464 @@
+{"pi":"0x0000","group":"0B","di":{"artificial_head":false},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x0000","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0x0000","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0x0000","group":"0B","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0x0000","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0x2202","group":"0B","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0x2202","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0x2202","group":"0B","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0x2202","group":"0B","ps":"POWER   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0x2202","group":"1A","country":"dz","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0x7050"}
+{"pi":"0x7050","group":"0A","alt_kilohertz":[99800,105900,107700],"di":{"artificial_head":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","alt_kilohertz":[99800,105900,107700],"di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","alt_kilohertz":[99800,105900,107700],"di":{"stereo":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"107,7MHz","alt_kilohertz":[99800,105900,107700],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"107,7MHz","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"61121000","alt_kilohertz":[99800,105900,107700],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"61121000","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"KAS BUS ","alt_kilohertz":[99800,105900,107700],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"KAS BUS ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":" KELYJE ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"NEZINAI,","alt_kilohertz":[99800,105900,107700],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"NIEKADA ","alt_kilohertz":[99800,105900,107700],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":" RADIJO ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":" STOTIS ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"0A","ps":"TOLIAU..","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0x7050","group":"1A","country":"tn","has_linkage":false,"prog_type":"No PTY","tp":false}
+{"pi":"0x7210","group":"0A","di":{"artificial_head":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","ps":"  ELLA  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","ps":"ENDERSON","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","ps":"HENDERSO","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","ps":"  Love  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","ps":"SIGALA, ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","ps":"- We Got","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"0A","ps":" ZIP FM ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0x7210","group":"1A","country":"tn","has_linkage":false,"prog_type":"Pop music","tp":false}
+{"pi":"0x7210","group":"4A","clock_time":"2022-08-07T12:28:00+02:00","prog_type":"Pop music","tp":false}
+{"pi":"0x9140"}
+{"pi":"0x9140","group":"0A","alt_kilohertz":[88100,104700,106900],"di":{"compressed":false},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","alt_kilohertz":[88100,104700,106900],"di":{"stereo":false},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","ps":"104,7MHz","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","ps":"  +370  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","ps":"62049777","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","ps":" VILNIUS","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","ps":" WWW.   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0A","ps":" XFM.LT ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","di":{"artificial_head":false},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","di":{"stereo":false},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","ps":"104,7MHz","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","ps":"  +370  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","ps":"62049777","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","ps":" VILNIUS","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","ps":" WWW.   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"0B","ps":" XFM.LT ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Religion","ta":false,"tp":true}
+{"pi":"0x9140","group":"1A","country":"si","has_linkage":false,"prog_item_number":2048,"prog_item_started":{"day":1,"time":"00:00"},"prog_type":"Religion","tp":true}
+{"pi":"0x948A","group":"0A","alt_kilohertz":[92700,93500,98900,99500,104500],"di":{"artificial_head":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","alt_kilohertz":[92700,93500,98900,99500,104500],"di":{"compressed":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","alt_kilohertz":[92700,93500,98900,99500,104500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","alt_kilohertz":[92700,93500,98900,99500,104500],"di":{"stereo":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","ps":"Dassin -","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","ps":"GOLD FM ","alt_kilohertz":[92700,93500,98900,99500,104500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","ps":"GOLD FM ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","ps":"Indien  ","alt_kilohertz":[92700,93500,98900,99500,104500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","ps":"Indien  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","ps":"L'ete   ","alt_kilohertz":[92700,93500,98900,99500,104500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"0A","ps":"L'ete   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0x948A","group":"2A","prog_type":"News","tp":true}
+{"pi":"0x948A","group":"2A","radiotext":"Joe Dassin - L'ete Indien","prog_type":"News","tp":true}
+{"pi":"0xC068"}
+{"pi":"0xC068","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC068","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC068","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC068","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC068","group":"0A","ps":" 99,3MHz","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC068","group":"0A","ps":"Jazz FM ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC068","group":"0A","ps":"Vilnius ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC068","group":"12A","prog_type":"Oldies music","tp":false,"unknown_oda":{"raw_data":"09 E0CD 7A7A"}}
+{"pi":"0xC068","group":"1A","country":"lt","has_linkage":false,"prog_type":"Jazz music","tp":false}
+{"pi":"0xC08A","group":"0B","di":{"artificial_head":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC08A","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC08A","group":"0B","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC08A","group":"0B","di":{"stereo":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC08A","group":"0B","ps":"  12:31 ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC08A","group":"0B","ps":" - ZW - ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC08A","group":"0B","ps":"-ZW-    ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC08A","group":"2A","prog_type":"No PTY","tp":true}
+{"pi":"0xC08A","group":"2A","radiotext":"RADIO ZNAD WILII 103,8 FM https://zw.lt","prog_type":"No PTY","tp":true}
+{"pi":"0xC0E5","group":"0A","alt_kilohertz":[87800,90300,92000,93300],"di":{"artificial_head":false},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","alt_kilohertz":[87800,90300,92000,93300],"di":{"compressed":false},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","alt_kilohertz":[87800,90300,92000,93300],"di":{"stereo":false},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","ps":"NEWDRIVE","alt_kilohertz":[87800,90300,92000,93300],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","ps":"NEWDRIVE","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","ps":"ROCK FM ","alt_kilohertz":[87800,90300,92000,93300],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","ps":"ROCK FM ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","ps":" To Run ","alt_kilohertz":[87800,90300,92000,93300],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"0A","ps":" To Run ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Rock music","ta":false,"tp":true}
+{"pi":"0xC0E5","group":"1A","country":"lt","has_linkage":false,"prog_type":"Rock music","tp":true}
+{"pi":"0xC0E5","group":"1A","has_linkage":false,"language":"Unknown","prog_type":"Rock music","tp":true}
+{"pi":"0xC0E5","group":"2A","prog_type":"Rock music","tp":true}
+{"pi":"0xC0E5","group":"2A","radiotext":"NEWDRIVE - Nowhere To Run","prog_type":"Rock music","tp":true}
+{"pi":"0xC158","group":"0A","alt_kilohertz":[89500,92300,93400,94100,95300,95400,96000,96400,97000,97300,100000,100600,102200,103700,104800,104900,107900],"di":{"artificial_head":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","alt_kilohertz":[89500,92300,93400,94100,95300,95400,96000,96400,97000,97300,100000,100600,102200,103700,104800,104900,107900],"di":{"compressed":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","alt_kilohertz":[89500,92300,93400,94100,95300,95400,96000,96400,97000,97300,100000,100600,102200,103700,104800,104900,107900],"di":{"stereo":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"RADIJAS ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"savi    ","alt_kilohertz":[89500,92300,93400,94100,95300,95400,96000,96400,97000,97300,100000,100600,102200,103700,104800,104900,107900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"savi    ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"S KEICIA","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"Visi    ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"ZINIU   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"ZINOJIMA","alt_kilohertz":[89500,92300,93400,94100,95300,95400,96000,96400,97000,97300,100000,100600,102200,103700,104800,104900,107900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"0A","ps":"ZINOJIMA","di":{"dynamic_pty":true},"is_music":true,"prog_type":"News","ta":false,"tp":true}
+{"pi":"0xC158","group":"14A","other_network":{"pi":"0xC158","prog_type":"No PTY","ta":false,"tp":false},"prog_type":"News","tp":true}
+{"pi":"0xC158","group":"14A","other_network":{"pi":"0xC158","ps":"        ","tp":false},"prog_type":"News","tp":true}
+{"pi":"0xC158","group":"14A","other_network":{"pi":"0xC158","tp":false},"prog_type":"News","tp":true}
+{"pi":"0xC158","group":"2A","prog_type":"News","tp":true}
+{"pi":"0xC158","group":"2A","radiotext":"ZINIU RADIJAS - ZINOJIMAS KEICIA","prog_type":"News","tp":true}
+{"pi":"0xC164"}
+{"pi":"0xC164","group":"0A","alt_kilohertz":[97100,101500],"di":{"artificial_head":false},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","alt_kilohertz":[97100,101500],"di":{"compressed":false},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","alt_kilohertz":[97100,101500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":"   EASY ","alt_kilohertz":[97100,101500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":"  EASY F","alt_kilohertz":[97100,101500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":" FM - Gy","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":"FM - Gyv","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":" Gyvenk ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":"- Gyvenk","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":"Y FM - G","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":"M - Gyve","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"0A","ps":"SY FM - ","alt_kilohertz":[97100,101500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Easy listening","ta":false,"tp":true}
+{"pi":"0xC164","group":"14A","other_network":{"pi":"0xC164","alt_kilohertz":[97100,101500],"tp":false},"prog_type":"Easy listening","tp":true}
+{"pi":"0xC164","group":"14A","other_network":{"pi":"0xC164","prog_type":"No PTY","ta":false,"tp":false},"prog_type":"Easy listening","tp":true}
+{"pi":"0xC164","group":"14A","other_network":{"pi":"0xC164","tp":false},"prog_type":"Easy listening","tp":true}
+{"pi":"0xC164","group":"14A","prog_type":"Easy listening","tp":true}
+{"pi":"0xC164","group":"14A","prog_type":"Other music","tp":true}
+{"pi":"0xC164","group":"2A","prog_type":"Easy listening","tp":true}
+{"pi":"0xC1CC"}
+{"pi":"0xC1CC","group":"0A","di":{"dynamic_pty":true},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"0A","ps":" 93,1MHz","di":{"dynamic_pty":true},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"0A","ps":"MARIJOS ","di":{"dynamic_pty":true},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"0A","ps":"RADIJAS ","di":{"dynamic_pty":true},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"0A","ps":"VILNIUS ","di":{"dynamic_pty":true},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"0B","di":{"artificial_head":false},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"0B","di":{"compressed":false},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"0B","di":{"stereo":false},"is_music":false,"prog_type":"Culture","ta":false,"tp":true}
+{"pi":"0xC1CC","group":"1A","country":"lt","has_linkage":false,"prog_type":"Culture","tp":true}
+{"pi":"0xC1CC","group":"4A","clock_time":"2022-08-07T11:11:00+03:00","prog_type":"Culture","tp":true}
+{"pi":"0xC1CC","prog_type":"Culture","tp":true}
+{"pi":"0xC20B","group":"0A","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"ANYMORE ","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"ANYMORE ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"COCKER  ","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"COCKER  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"DONT YOU","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"DONT YOU","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"   JOE  ","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"   JOE  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"LOVE ME ","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"LOVE ME ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"M-1PLIUS","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"0A","ps":"M-1PLIUS","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC20B","group":"10A","prog_type":"Pop music","pty_name":"POP     ","tp":true}
+{"pi":"0xC20B","group":"10A","prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"14A","other_network":{"pi":"0xC20B","alt_kilohertz":[92200,96500,97600,98300,98700,100200,100500,104300,106200,106400],"tp":true},"prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"14A","other_network":{"pi":"0xC20B","prog_type":"Pop music","ta":false,"tp":true},"prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"14A","other_network":{"pi":"0xC20B","ps":"M-1PLIUS","tp":true},"prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"14A","other_network":{"pi":"0xC20B","tp":true},"prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"1A","country":"lt","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"1A","has_linkage":false,"language":"Unknown","prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xC20B","group":"2A","radiotext":"JOE COCKER  - DONT YOU LOVE ME ANYMORE","prog_type":"Pop music","tp":true}
+{"pi":"0xC265","group":"0A","alt_kilohertz":[95600,102400,103000,103100,103300,103400,103500,103700,103900],"di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","alt_kilohertz":[95600,102400,103000,103100,103300,103400,103500,103700,103900],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","alt_kilohertz":[95600,102400,103000,103100,103300,103400,103500,103700,103900],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"GYVENKIM","alt_kilohertz":[95600,102400,103000,103100,103300,103400,103500,103700,103900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"GYVENKIM","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"YVENKIME","alt_kilohertz":[95600,102400,103000,103100,103300,103400,103500,103700,103900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"YVENKIME","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"LIETUS  ","alt_kilohertz":[95600,102400,103000,103100,103300,103400,103500,103700,103900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"LIETUS  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"SVEIKAI ","alt_kilohertz":[95600,102400,103000,103100,103300,103400,103500,103700,103900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"0A","ps":"SVEIKAI ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC265","group":"10A","prog_type":"Pop music","pty_name":"POP     ","tp":true}
+{"pi":"0xC265","group":"10A","prog_type":"Pop music","tp":true}
+{"pi":"0xC265","group":"1A","country":"lt","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xC265","group":"1A","has_linkage":false,"language":"Lithuanian","prog_type":"Pop music","tp":true}
+{"pi":"0xC265","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xC265","group":"2A","radiotext":"GYVENKIME SVEIKAI","prog_type":"Pop music","tp":true}
+{"pi":"0xC315"}
+{"pi":"0xC315","group":"0A","alt_kilohertz":[96200,102500],"di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","alt_kilohertz":[96200,102500],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","alt_kilohertz":[96200,102500],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":" Billie ","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"Billie E","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"e Eilish","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":" Eilish ","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"Eilish -","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"h - The ","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"ie Eilis","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"ilish - ","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"illie Ei","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"ish - Th","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"lie Eili","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"lish - T","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"llie Eil","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"0A","ps":"sh - The","alt_kilohertz":[96200,102500],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC315","group":"1A","country":"gb","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xC315","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xC315","group":"2A","radiotext":"European Hit Radio","prog_type":"Pop music","tp":true}
+{"pi":"0xC316","group":"0B","di":{"artificial_head":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":" /2020.1","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"- Afterg","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":" Aftergl","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"erglow /","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"glow /20","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"low /202","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"ow /2020","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"rglow /2","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"terglow ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"0B","ps":"w /2020.","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xC316","group":"1A","country":"gb","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xC316","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xC316","group":"2A","radiotext":"SUPER FM","prog_type":"Pop music","tp":true}
+{"pi":"0xC316","prog_type":"Pop music","tp":true}
+{"pi":"0xC321","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0A","ps":"5. Ved. ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0A","ps":"gimantas","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0A","ps":"Kapocius","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0A","ps":"Pasaulio","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0A","ps":"Zygimant","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"0B","di":{"stereo":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC321","group":"1A","country":"lt","has_linkage":false,"prog_type":"No PTY","tp":true}
+{"pi":"0xC321","group":"4A","clock_time":"2022-08-07T12:22:00+02:00","prog_type":"No PTY","tp":true}
+{"pi":"0xC322","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","ps":"   is   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","ps":"KLASIKA ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","ps":"  LRT   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","ps":" Misios ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","ps":"  sv.   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","ps":"  Sv.   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"0A","ps":"Vilniaus","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC322","group":"4A","clock_time":"2022-08-07T12:34:00+02:00","prog_type":"No PTY","tp":true}
+{"pi":"0xC333","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","ps":"Liandzbe","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","ps":"LRT OPUS","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","ps":"melapis.","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","ps":"Savaitga","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","ps":"Ved. Une","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC333","group":"0A","ps":"zbergyte","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":false,"tp":true}
+{"pi":"0xC430"}
+{"pi":"0xC430","group":"0A","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"artificial_head":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"compressed":false},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"stereo":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,99700,101600,101800,102000,102300,102600,107300],"di":{"compressed":false},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","alt_kilohertz":[87600,91400,92200,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"artificial_head":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":true,"tp":true}
+{"pi":"0xC430","group":"0A","di":{"artificial_head":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","di":{"compressed":false},"is_music":false,"prog_type":"National music","ta":false,"tp":false}
+{"pi":"0xC430","group":"0A","di":{"compressed":false},"is_music":false,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","di":{"stereo":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"107.3MHz","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"107.3MHz","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"LIETUVA ","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"LIETUVA ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"PUKAS   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"VIENIJA ","alt_kilohertz":[87600,88700,91400,94000,94200,94600,94800,95400,95700,95800,99300,101600,102000,102300,102600,107300,107600,107800],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"VIENIJA ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0A","ps":"VILNIUS ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0B","di":{"artificial_head":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0B","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0B","di":{"stereo":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0B","ps":"LIETUVA ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"0B","ps":"PUKAS   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"National music","ta":true,"tp":false}
+{"pi":"0xC430","group":"1A","has_linkage":false,"prog_item_number":21252,"prog_item_started":{"day":10,"time":"12:04"},"prog_type":"Children's programmes","tp":false}
+{"pi":"0xC430","group":"1A","has_linkage":false,"prog_item_number":21252,"prog_item_started":{"day":10,"time":"12:04"},"prog_type":"National music","tp":false}
+{"pi":"0xC430","group":"1A","prog_type":"National music","tp":false}
+{"pi":"0xC430","group":"4A","clock_time":"2022-08-07T14:00:00+03:00","prog_type":"National music","tp":false}
+{"pi":"0xC430","group":"4A","clock_time":"2022-08-07T16:50:00+03:00","prog_type":"National music","tp":false}
+{"pi":"0xC430","group":"6A","in_house_data":[10,51674,21280],"prog_type":"Oldies music","tp":false}
+{"pi":"0xC430","prog_type":"National music","tp":false}
+{"pi":"0xC432"}
+{"pi":"0xC432","group":"0A","alt_kilohertz":[89500,90100,90800,91100,92400,94700,95400,97400,100900],"di":{"artificial_head":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","alt_kilohertz":[89500,90100,90800,91100,92400,94700,95400,97400,100900],"di":{"compressed":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","alt_kilohertz":[89500,90100,90800,91100,92400,94700,95400,97400,100900],"di":{"stereo":false},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","di":{"artificial_head":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","di":{"compressed":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","ps":"100.9MHZ","alt_kilohertz":[89500,90100,90800,91100,92400,94700,95400,97400,100900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","ps":"100.9MHZ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","ps":"PUKAS2  ","alt_kilohertz":[89500,90100,90800,91100,92400,94700,95400,97400,100900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","ps":"PUKAS2  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"0A","ps":"VILNIUS ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Jazz music","ta":false,"tp":false}
+{"pi":"0xC432","group":"1A","country":"lt","has_linkage":false,"prog_item_number":21251,"prog_item_started":{"day":10,"time":"12:03"},"prog_type":"Jazz music","tp":false}
+{"pi":"0xC432","group":"2A","prog_type":"Jazz music","tp":false}
+{"pi":"0xCA01","group":"0A","alt_kilohertz":[90700,92800,99800,105900,106000,106200,106300,106500,106600,106800],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","alt_kilohertz":[90700,92800,99800,105900,106000,106200,106300,106500,106600,106800],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","ps":"  AS IT ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","ps":"  HARRY ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","ps":"   M-1  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","ps":" STYLES ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","ps":" TOP-40 ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"0A","ps":"   WAS  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA01","group":"10A","prog_type":"Pop music","pty_name":"TOP40   ","tp":true}
+{"pi":"0xCA01","group":"10A","prog_type":"Pop music","tp":true}
+{"pi":"0xCA01","group":"1A","country":"lt","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xCA01","group":"1A","has_linkage":false,"language":"Lithuanian","prog_type":"Pop music","tp":true}
+{"pi":"0xCA01","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xCA01","group":"2A","radiotext":"HARRY STYLES - AS IT WAS","prog_type":"Pop music","tp":true}
+{"pi":"0xCA01","group":"2A","radiotext":"M-1 TOP-40","prog_type":"Pop music","tp":true}
+{"pi":"0xCA45","group":"0A","alt_kilohertz":[89600,91200,92200,95200,97700,99500,99900,100000,101000,101100,101300,101400,101500,101600,101800,102700,105500,107100],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","alt_kilohertz":[89600,91200,92200,95200,97700,99500,99900,100000,101000,101100,101300,101400,101500,101600,101800,102700,105500,107100],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","ps":"Give Up ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","ps":" Never  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","ps":" - RC - ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"0A","ps":" SIA -  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA45","group":"1A","country":"lt","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xCA45","group":"1A","has_linkage":false,"language":"Unknown","prog_type":"Pop music","tp":true}
+{"pi":"0xCA45","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xCA45","group":"2A","radiotext":"SIA - Never Give Up","prog_type":"Pop music","tp":true}
+{"pi":"0xCA45","group":"4A","clock_time":"2022-08-07T12:23:00+03:00","prog_type":"Pop music","tp":true}
+{"pi":"0xCA72","group":"0A","alt_kilohertz":[87700,87900,88300,89800,90400,90900,92500,93700,94300,98500,101700,104300,106800],"di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"0A","alt_kilohertz":[87700,87900,88300,89800,90400,90900,92500,93700,94300,98500,101700,104300,106800],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"0A","alt_kilohertz":[87700,87900,88300,89800,90400,90900,92500,93700,94300,98500,101700,104300,106800],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"0A","ps":"RELAX FM","alt_kilohertz":[87700,87900,88300,89800,90400,90900,92500,93700,94300,98500,101700,104300,106800],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"0A","ps":"RELAX FM","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA72","group":"1A","country":"lt","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xCA72","group":"1A","has_linkage":false,"language":"Unknown","prog_type":"Pop music","tp":true}
+{"pi":"0xCA72","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xCA72","group":"2A","radiotext":"OLLY MURS, RIZZLE KICKS - Heart Skips A Beat","prog_type":"Pop music","tp":true}
+{"pi":"0xCA83","group":"0A","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"AUGUSTE ","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"AUGUSTE ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"JESSICA ","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"JESSICA ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"NOMBEKO ","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"NOMBEKO ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"Pakuzdek","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"Pakuzdek","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"RADIO R ","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"RADIO R ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"  SHY,  ","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"  SHY,  ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"- Tyliai","alt_kilohertz":[89900,90600,98300,100400,101300,103700,104400,105600],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"0A","ps":"- Tyliai","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCA83","group":"1A","country":"lt","has_linkage":false,"prog_type":"Pop music","tp":true}
+{"pi":"0xCA83","group":"1A","has_linkage":false,"language":"Unknown","prog_type":"Pop music","tp":true}
+{"pi":"0xCA83","group":"4A","clock_time":"2022-08-07T12:33:00+03:00","prog_type":"Pop music","tp":true}
+{"pi":"0xCA83","group":"4A","clock_time":"2022-08-07T12:34:00+03:00","prog_type":"Pop music","tp":true}
+{"pi":"0xCA96"}
+{"pi":"0xCA96","group":"0B","di":{"artificial_head":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0xCA96","group":"0B","di":{"compressed":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0xCA96","group":"0B","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0xCA96","group":"0B","di":{"stereo":false},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0xCA96","group":"0B","ps":"   A2   ","di":{"dynamic_pty":true},"is_music":true,"prog_type":"No PTY","ta":true,"tp":false}
+{"pi":"0xCA96","group":"10A","prog_type":"No PTY","pty_name":"Vilnius ","tp":false}
+{"pi":"0xCA96","group":"10A","prog_type":"No PTY","tp":false}
+{"pi":"0xCA96","group":"1A","country":"lt","has_linkage":false,"prog_item_number":2048,"prog_item_started":{"day":1,"time":"00:00"},"prog_type":"No PTY","tp":false}
+{"pi":"0xCA96","group":"1A","prog_type":"No PTY","tp":false}
+{"pi":"0xCA96","prog_type":"No PTY","tp":false}
+{"pi":"0xCBBC","group":"0B","di":{"artificial_head":false},"is_music":false,"prog_type":"Information","ta":false,"tp":true}
+{"pi":"0xCBBC","group":"0B","di":{"compressed":false},"is_music":false,"prog_type":"Information","ta":false,"tp":true}
+{"pi":"0xCBBC","group":"0B","di":{"dynamic_pty":true},"is_music":false,"prog_type":"Information","ta":false,"tp":true}
+{"pi":"0xCBBC","group":"0B","di":{"stereo":false},"is_music":false,"prog_type":"Information","ta":false,"tp":true}
+{"pi":"0xCBBC","group":"0B","ps":"   BBC  ","di":{"dynamic_pty":true},"is_music":false,"prog_type":"Information","ta":false,"tp":true}
+{"pi":"0xCBBC","group":"10A","prog_type":"Information","pty_name":"        ","tp":true}
+{"pi":"0xCBBC","group":"10A","prog_type":"Information","tp":true}
+{"pi":"0xCBBC","group":"1A","country":"lt","has_linkage":false,"prog_item_number":2048,"prog_item_started":{"day":1,"time":"00:00"},"prog_type":"Information","tp":true}
+{"pi":"0xCC41"}
+{"pi":"0xCC41","group":"0A","alt_kilohertz":[91900],"di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","alt_kilohertz":[91900],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","alt_kilohertz":[91900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","alt_kilohertz":[91900],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","ps":"GERAS FM","alt_kilohertz":[91900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","ps":"g, Sick ","alt_kilohertz":[91900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","ps":"Individu","alt_kilohertz":[91900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"0A","ps":"Tungevaa","alt_kilohertz":[91900],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":true}
+{"pi":"0xCC41","group":"2A","prog_type":"Pop music","tp":true}
+{"pi":"0xCCC3"}
+{"pi":"0xCCC3","group":"0A","alt_kilohertz":[89100,89300,91300,91500,93200,97300,98500,100200,105400],"di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","alt_kilohertz":[89100,89300,91300,91500,93200,97300,98500,100200,105400],"di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","alt_kilohertz":[89100,89300,91300,91500,93200,97300,98500,100200,105400],"di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","alt_kilohertz":[89100,89300,91300,91500,93200,97300,98500,100200,105400],"di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","di":{"artificial_head":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","di":{"compressed":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","di":{"stereo":false},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"0A","ps":"EXTRA FM","di":{"dynamic_pty":true},"is_music":true,"prog_type":"Pop music","ta":false,"tp":false}
+{"pi":"0xCCC3","group":"10A","prog_type":"Pop music","tp":false}
+{"pi":"0xCCC3","group":"12A","prog_type":"Varied","tp":false,"unknown_oda":{"raw_data":"0A 626E 4120"}}
+{"pi":"0xCCC3","group":"14A","other_network":{"pi":"0xCCC3","prog_type":"Pop music","ta":false,"tp":false},"prog_type":"Pop music","tp":false}
+{"pi":"0xCCC3","group":"14A","other_network":{"pi":"0xCCC3","ps":"Extra fm","tp":false},"prog_type":"Pop music","tp":false}
+{"pi":"0xCCC3","group":"14A","other_network":{"pi":"0xCCC3","tp":false},"prog_type":"Pop music","tp":false}
+{"pi":"0xCCC3","group":"2A","prog_type":"Pop music","tp":false}
+{"pi":"0xCCC3","group":"2A","prog_type":"Varied","tp":true}
+{"pi":"0xCCC3","prog_type":"Pop music","tp":false}
